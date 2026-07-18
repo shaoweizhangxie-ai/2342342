@@ -1,0 +1,4 @@
+interface:
+  display_name: "一生一芯项目介绍"
+  short_description: "准确介绍一生一芯项目的理念、学习路径、收获与参与方式"
+  default_prompt: "使用 $introduce-ysyx 向我介绍一生一芯项目。"
